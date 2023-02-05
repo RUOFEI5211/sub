@@ -1,1 +1,273 @@
-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
+port: 7890
+socks-port: 7891
+allow-lan: false
+bind-address: '*'
+mode: rule
+log-level: info
+ipv6: false
+external-controller: 127.0.0.1:9090
+interface-name: en0
+dns:
+  enable: true
+  listen: 0.0.0.0:53
+  default-nameserver:
+    - 119.29.29.29
+    - 119.28.28.28
+    - 223.5.5.5
+    - 114.114.114.114
+  nameserver:
+    - https://dns.alidns.com/dns-query
+    - https://doh.dns.sb/dns-query
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
+    - '*.lan'
+    - localhost.ptlogin2.qq.com
+    - '+.srv.nintendo.net'
+    - '+.stun.playstation.net'
+    - '+.msftconnecttest.com'
+    - '+.msftncsi.com'
+    - '+.xboxlive.com'
+    - 'msftconnecttest.com'
+    - 'xbox.*.microsoft.com'
+    - '*.battlenet.com.cn'
+    - '*.battlenet.com'
+    - '*.blzstatic.cn'
+    - '*.battle.net'
+  
+proxies:
+  - name: sj
+    type: vless
+    server: sj.252798.xyz
+    port: 443
+    skip-cert-verify: true
+    uuid: 6373c273-4a52-4e5d-9ee9-afd23107bdc3
+    tls: true
+    network: grpc
+    grpc-opts:
+      grpc-service-name: "sj.252798.xyz"
+  - name: jp
+    type: vless
+    server: jp.252798.xyz
+    port: 443
+    skip-cert-verify: true
+    uuid: 6373c273-4a52-4e5d-9ee9-afd23107bdc3
+    tls: true
+    network: grpc
+    grpc-opts:
+      grpc-service-name: "jp.252798.xyz"
+  - name: sj1
+    type: vless
+    server: sj.alichen.top
+    port: 443
+    skip-cert-verify: true
+    uuid: 6373c273-4a52-4e5d-9ee9-afd23107bdc3
+    tls: true
+    network: grpc
+    grpc-opts:
+      grpc-service-name: "sj.alichen.top"
+  - name: jp1
+    type: vless
+    server: jp.alichen.top
+    port: 443
+    skip-cert-verify: true
+    uuid: 6373c273-4a52-4e5d-9ee9-afd23107bdc3
+    tls: true
+    network: grpc
+    grpc-opts:
+      grpc-service-name: "jp.alichen.top"
+  - name: hka
+    type: vless
+    server: hka.252798.xyz
+    port: 443
+    skip-cert-verify: true
+    uuid: 6373c273-4a52-4e5d-9ee9-afd23107bdc3
+    tls: true
+    network: grpc
+    grpc-opts:
+      grpc-service-name: "hka.252798.xyz"
+  - name: kr
+    type: vless
+    server: kr.252798.xyz
+    port: 443
+    skip-cert-verify: true
+    uuid: 6373c273-4a52-4e5d-9ee9-afd23107bdc3
+    tls: true
+    network: grpc
+    grpc-opts:
+      grpc-service-name: "kr.252798.xyz"
+  - name: la
+    type: vless
+    server: la.252798.xyz
+    port: 443
+    skip-cert-verify: true
+    uuid: 6373c273-4a52-4e5d-9ee9-afd23107bdc3
+    tls: true
+    network: grpc
+    grpc-opts:
+      grpc-service-name: "la.252798.xyz"
+  - name: la2
+    type: vless
+    server: la2.alichen.top
+    port: 443
+    skip-cert-verify: true
+    uuid: 6373c273-4a52-4e5d-9ee9-afd23107bdc3
+    tls: true
+    network: grpc
+    grpc-opts:
+      grpc-service-name: "la2.alichen.top"
+  - name: la3
+    type: vless
+    server: la3.alichen.top
+    port: 443
+    skip-cert-verify: true
+    uuid: 6373c273-4a52-4e5d-9ee9-afd23107bdc3
+    tls: true
+    network: grpc
+    grpc-opts:
+      grpc-service-name: "la3.alichen.top"
+  - name: la5
+    type: vless
+    server: la.alichen.top
+    port: 443
+    skip-cert-verify: true
+    uuid: 6373c273-4a52-4e5d-9ee9-afd23107bdc3
+    tls: true
+    network: grpc
+    grpc-opts:
+      grpc-service-name: "la.alichen.top"
+      grpc-multi-mode: true
+
+  
+proxy-groups:
+   # 代理节点选择
+  - name: "PROXY"
+    type: select
+    proxies:
+      - hka
+      - kr
+      - sj
+      - sj1
+      - jp
+      - jp1
+      - la
+      - la2
+      - la3
+      - la5
+
+rule-providers:
+  reject:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt"
+    path: ./ruleset/reject.yaml
+    interval: 86400
+
+  icloud:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/icloud.txt"
+    path: ./ruleset/icloud.yaml
+    interval: 86400
+
+  apple:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/apple.txt"
+    path: ./ruleset/apple.yaml
+    interval: 86400
+
+  google:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/google.txt"
+    path: ./ruleset/google.yaml
+    interval: 86400
+
+  proxy:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/proxy.txt"
+    path: ./ruleset/proxy.yaml
+    interval: 86400
+
+  direct:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/direct.txt"
+    path: ./ruleset/direct.yaml
+    interval: 86400
+
+  private:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/private.txt"
+    path: ./ruleset/private.yaml
+    interval: 86400
+
+  gfw:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/gfw.txt"
+    path: ./ruleset/gfw.yaml
+    interval: 86400
+
+  greatfire:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/greatfire.txt"
+    path: ./ruleset/greatfire.yaml
+    interval: 86400
+
+  tld-not-cn:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/tld-not-cn.txt"
+    path: ./ruleset/tld-not-cn.yaml
+    interval: 86400
+
+  telegramcidr:
+    type: http
+    behavior: ipcidr
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/telegramcidr.txt"
+    path: ./ruleset/telegramcidr.yaml
+    interval: 86400
+
+  cncidr:
+    type: http
+    behavior: ipcidr
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/cncidr.txt"
+    path: ./ruleset/cncidr.yaml
+    interval: 86400
+
+  lancidr:
+    type: http
+    behavior: ipcidr
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/lancidr.txt"
+    path: ./ruleset/lancidr.yaml
+    interval: 86400
+
+  applications:
+    type: http
+    behavior: classical
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/applications.txt"
+    path: ./ruleset/applications.yaml
+    interval: 86400
+
+rules:
+  - RULE-SET,applications,DIRECT
+  - DOMAIN,clash.razord.top,DIRECT
+  - DOMAIN,yacd.haishan.me,DIRECT
+  - RULE-SET,private,DIRECT
+  - RULE-SET,reject,REJECT
+  - RULE-SET,icloud,DIRECT
+  - RULE-SET,apple,DIRECT
+  - RULE-SET,google,DIRECT
+  - RULE-SET,proxy,PROXY
+  - RULE-SET,direct,DIRECT
+  - RULE-SET,lancidr,DIRECT
+  - RULE-SET,cncidr,DIRECT
+  - RULE-SET,telegramcidr,PROXY
+  - GEOIP,LAN,DIRECT
+  - GEOIP,CN,DIRECT
+  - MATCH,PROXY
